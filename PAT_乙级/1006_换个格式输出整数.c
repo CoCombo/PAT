@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAXNUM 5000
-
 void parse(int num, int bit);
 char map[3] = {' ', 'S', 'B'};
 int main()
